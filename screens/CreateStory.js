@@ -211,7 +211,7 @@ const styles = StyleSheet.create({
     fontFamily: "Bubblegum-Sans",
   },
   inputFontExtra: {
-    marginTop: RFValue(15),
+    marginTop: RFValue(20),
   },
   inputTextBig: {
     textAlignVertical: "top",
